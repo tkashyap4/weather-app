@@ -17,16 +17,21 @@ Frontend: HTML, CSS, JavaScript
 
 API: OpenWeatherMap
 
+🌐 Live Demo: [Open App](https://dainty-kringle-9459d6.netlify.app/)
+
 📦 How to Run
 Follow the steps below to set up and run the project locally:
 
 1. Clone the Repository
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
-2. Configure API Key
-   const apiKey = "your_openweather_api_key";
-3. Run the App
+   
+3. Configure API Key
+   const apiKey = "const apiKey = "f9e3a3aef33146bc8e0cbc889fb833c9"
+   
+4. Run the App
    open index.html directly in your browser.
+
 
 🧠 Future Improvements
 Add weather forecast for upcoming days
@@ -36,3 +41,4 @@ Support for multiple units (Celsius, Fahrenheit)
 Save recent searches
 
 Dark mode toggle
+
